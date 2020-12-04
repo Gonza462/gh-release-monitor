@@ -1,4 +1,8 @@
-# GitHub Release Monitor
+#
+Project hosted with Firebase and it includes a automated GitHub actions CI/CD workflow (Build & Deploy).
+Production Link: https://lumanu-gh-tracker.web.app/
+
+## GitHub Release Monitor
 
 A tool to keep track of releases made by GitHub repos.   This repository contains an example setup that can be used to create an app.
 
