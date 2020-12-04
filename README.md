@@ -1,4 +1,4 @@
-#
+# About
 Project hosted with Firebase and it includes a automated GitHub actions CI/CD workflow (Build & Deploy).
 Production Link: https://lumanu-gh-tracker.web.app/
 
