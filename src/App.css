@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.popupbox-wrapper{
+  box-shadow: 0 0 5px rgb(0 0 0 / 1%);
+}
